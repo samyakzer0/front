@@ -1,8 +1,8 @@
 // app.js
 
 // Replace these with your contract addresses
-const donationContractAddress = 'YOUR_DONATION_CONTRACT_ADDRESS';
-const sageTokenAddress = 'YOUR_SAGE_TOKEN_ADDRESS';
+const donationContractAddress = '0x9FaB9e3B8e32D824bb2A2e0Dd51F26e346267c70';
+const sageTokenAddress = '0x9f78bba528411d4afa80f25808e7b8b0088b92f8';
 
 // ABI for your contracts (use Remix or etherscan to get ABI)
 const donationContractABI = [ /* Your DonationContract ABI here */ ];
